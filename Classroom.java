@@ -1,6 +1,6 @@
 /**
  * -------------------------------------Info-----------------------------------
- *	Name:				Date:			Current Version:
+ *	Name:			Date:			Current Version:
  *	Martin Barcelon		11-18-2016		1.0
  *
  *	Email:
